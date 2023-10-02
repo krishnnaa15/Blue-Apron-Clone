@@ -1,4 +1,4 @@
-Product Landing Page ;
+Restaurant Website ;
 This is the clone of blueapron.com by using HTML & CSS.
 
 About Blue Apron - 
